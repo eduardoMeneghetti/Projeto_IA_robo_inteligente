@@ -639,11 +639,11 @@ The grid is represented as an **undirected graph**:
 
 ## 👨‍💻 Author
 
-Developed as an educational project on search algorithms and artificial intelligence.
+Developed by @eduardoMeneghetti as an educational project on search algorithms and artificial intelligence.
 
 ## 📄 License
 
-Developed by @eduardoMeneghetti as an educational project on search algorithms and artificial intelligence.
+This project is free for educational use and modification.
 
 ---
 
